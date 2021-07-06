@@ -1,4 +1,4 @@
-# DjangoDentist
+# DjangoDentist : A Dental Website.
 
 
 
